@@ -7,6 +7,9 @@ Time Traveler: Elevator of Eras is an action-adventure Unity game where players 
 - Futuristic World: Step into a high-tech, dystopian future filled with towering cities, robots, and advanced weaponry, including laser guns.
 - Combat System: Battle enemies across time with an adaptive combat system that lets you switch between melee swordplay in the medieval world and ranged laser gun combat in the future.
 
-<img >
+## Preview
+
+<img src="elevetorintime_gif.gif"  height="600"/>
+
 ## Gameplay
 In Time Traveler: Elevator of Eras, players must balance exploration, puzzle-solving, and combat in both the medieval and futuristic worlds. Each time period presents unique enemies, challenges, and opportunities. Whether you're engaging in sword duels with medieval knights or battling futuristic robots with laser guns, the combat system adapts to the era. Your strategic decisions and how you handle these challenges will influence both timelines.
